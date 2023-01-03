@@ -109,8 +109,3 @@ client.run('token')
 
 # With thanks to:
 # github.com/Jachdich
-
-# PROBLEMS
-# How are the users inputs from the command able to be made into simple variables like username and channel? 
-# How can the bot be checking on multiple streams at once?
-# ^^ Surely it needs multiple processes for each?
