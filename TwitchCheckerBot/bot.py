@@ -105,7 +105,7 @@ async def checker():
 
 
 
-client.run('OTY5NzI0OTE4OTczNDg1MDY2.YmxktQ.h1sfotSXN93Frkdqx1E_lB41spc')
+client.run('token')
 
 # With thanks to:
 # github.com/Jachdich
